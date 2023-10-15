@@ -18,7 +18,7 @@ const Reviews = () => {
         <div class="h-28 overflow-hidden rounded-t-lg bg-primary"></div>
         <div
           class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white">
-          <img alt="profile image"
+          <img alt="profile"
             src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20(1).webp" />
         </div>
         <div class="p-6">
@@ -46,7 +46,7 @@ const Reviews = () => {
         <div class="h-28 overflow-hidden rounded-t-lg bg-[#7a81a8]"></div>
         <div
           class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white ">
-          <img alt="profile image"
+          <img alt="profile"
             src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20(2).webp" />
         </div>
         <div class="p-6">
@@ -74,7 +74,7 @@ const Reviews = () => {
         <div class="h-28 overflow-hidden rounded-t-lg bg-primary_dark"></div>
         <div
           class="mx-auto -mt-12 w-24 overflow-hidden rounded-full border-2 border-white bg-white ">
-          <img alt="profile image"
+          <img alt="profile"
             src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20(2).webp" />
         </div>
         <div class="p-6">

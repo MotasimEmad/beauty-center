@@ -28,7 +28,7 @@ const NavBar = () => {
                 </div>
 
                 <div className="flex justify-center md:block">
-                    <img src="./images/instagram.png" className="w-6 h-6" />
+                    <img src="./images/instagram.png" className="w-6 h-6" alt="instagram" />
                 </div>
             </div>
         </div>

@@ -22,7 +22,7 @@ const Header = () => {
         </div>
 
         <div className="flex justify-center mt-10">
-            <img className="object-cover w-full h-96 rounded-xl lg:w-4/5 bg-opacity-75 bg-primary" src="https://d2pi0n2fm836iz.cloudfront.net/323767/021220221315166207b2e4d45c7.jpg" alt="header image" />
+            <img className="object-cover w-full h-96 rounded-xl lg:w-4/5 bg-opacity-75 bg-primary" src="https://d2pi0n2fm836iz.cloudfront.net/323767/021220221315166207b2e4d45c7.jpg" alt="header" />
         </div>
     </div>
   );
